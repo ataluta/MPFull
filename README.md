@@ -1,2 +1,2 @@
 # MPFull
-Final Fantasy XI Ashita addon to play notification sound when mp is full.
+Plays a sound (and can stand you up) when your MP fills to full.
